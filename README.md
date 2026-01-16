@@ -12,3 +12,10 @@ Day-2
   3. Print 1 to n using loop
   4. Sum 1 to n
   5. Print table using for loop
+
+Day-3
+  1. Reverse string
+  2. Palindrome string
+  3. Count vowels
+  4. Factorial
+  5. Sum of digits
