@@ -19,3 +19,9 @@ Day-3
   3. Count vowels
   4. Factorial
   5. Sum of digits
+
+Day-4
+  1. Create list and print
+  2. List sum
+  3. Max/min in list
+  4. Search element in list
