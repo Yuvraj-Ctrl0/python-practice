@@ -1,4 +1,4 @@
-# print sum of elements of list.
+# 2. print sum of elements of list.
 l=[1,2,3.44,53.33]
 sum=0
 for i in l:
