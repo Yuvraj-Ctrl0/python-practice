@@ -25,3 +25,9 @@ Day-4
   2. List sum
   3. Max/min in list
   4. Search element in list
+
+Day-5
+  1.Print numbers except 5
+  2.Stop loop when number becomes 7
+  3.Skip even numbers using statements
+  4.Skip odd numbers using statements
